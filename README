@@ -1,0 +1,9 @@
+This is a script I created for maya that can randomly generate a city on a given surface, my main aim was for it to be useable on spherical surfaces to create cartoon like planets in a project. The script is complete with UI.
+
+A link to the script in action:
+https://vimeo.com/342008028
+
+Files in this project:
+ProceduralBuildingToolClass.py - Contains two classes, responsible for gathering and storing various information about a given surface (for use in generating a city) as well as another for the actual generation of the city itself.
+
+ProceduralBuildingToolUI.py - Contains the UI used to implement the classes in the other file.
