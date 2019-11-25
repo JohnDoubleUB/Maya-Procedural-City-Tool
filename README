@@ -6,4 +6,4 @@ https://vimeo.com/342008028
 Files in this project:
 ProceduralBuildingToolClass.py - Contains two classes, responsible for gathering and storing various information about a given surface (for use in generating a city) as well as another for the actual generation of the city itself.
 
-ProceduralBuildingToolUI.py - Contains the UI used to implement the classes in the other file.
+ProceduralBuildingToolUI.py - Contains the UI used to implement the classes in the other file
